@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\UnityProjects\\MimakiPrinter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|D:\\UnityProjects\\MimakiPrinter\\assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|d:\\unityprojects\\mimakiprinter\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|d:\\unityprojects\\mimakiprinter\\assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:42:37.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MoveCamera.cs",
               "DocumentMoniker": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\MoveCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MoveCamera.cs",

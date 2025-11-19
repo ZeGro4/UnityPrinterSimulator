@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProjects\\MimakiPrinter\\",
+  "WorkspaceRootPath": "D:\\7\\Unity\\UnityPrinterSimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|d:\\unityprojects\\mimakiprinter\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57F69E78-6FF5-E65B-CDDC-4E740D4E1ECB}|Assembly-CSharp.csproj|d:\\7\\unity\\unityprintersimulator\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F69E78-6FF5-E65B-CDDC-4E740D4E1ECB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|d:\\unityprojects\\mimakiprinter\\assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|D:\\7\\Unity\\UnityPrinterSimulator\\assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D33EFF3A-C63F-E193-ED42-8299F57AD163}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\PlayerMovement.cs",
+              "DocumentMoniker": "D:\\7\\Unity\\UnityPrinterSimulator\\Assets\\Script\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
-              "ToolTip": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\7\\Unity\\UnityPrinterSimulator\\Assets\\Script\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,14 +53,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MoveCamera.cs",
-              "DocumentMoniker": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\MoveCamera.cs",
+              "DocumentMoniker": "D:\\7\\Unity\\UnityPrinterSimulator\\Assets\\Script\\MoveCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MoveCamera.cs",
-              "ToolTip": "D:\\UnityProjects\\MimakiPrinter\\Assets\\Script\\MoveCamera.cs",
+              "ToolTip": "D:\\7\\Unity\\UnityPrinterSimulator\\Assets\\Script\\MoveCamera.cs",
               "RelativeToolTip": "Assets\\Script\\MoveCamera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T15:38:45.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T15:38:45.319Z"
             }
           ]
         }
