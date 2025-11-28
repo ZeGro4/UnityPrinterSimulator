@@ -74,6 +74,7 @@
      <Compile Include="Assets\Script\HighlightElems\UIButtonDetailEventHandler.cs" />
      <Compile Include="Assets\Script\MoveCamera.cs" />
      <Compile Include="Assets\Script\PlayerMovement.cs" />
+     <Compile Include="Assets\Script\Test.cs" />
      <None Include="Assets\ParticleProFX\readme.txt" />
      <None Include="Assets\ParticleProFX\Resources\Shaders\AlphaSelfIllum.shader" />
      <None Include="Assets\Shaders\NewSurfaceShader.shader" />

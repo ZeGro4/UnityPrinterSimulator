@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("Moving...");
+
         // Проверяем, стоит ли персонаж на земле
         if (controller.isGrounded && velocity.y < 0)
         {
