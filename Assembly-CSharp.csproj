@@ -51,14 +51,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ParticleProFX\PPFXWindow\PPFXRendererLayer.cs" />
+     <Compile Include="Assets\ParticleProFX\PPFXWindow\PPFXWindow.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXAutodestruct.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXChainReaction.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXChainReactionInspector.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXClickMove.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXClickMoveSmooth.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXCountdownDestruct.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXLightFlare.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXMeteor.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXPhysicForce.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXRandomPosition.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXRigidBodyExtensions.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXScale.cs" />
+     <Compile Include="Assets\ParticleProFX\Resources\Scripts\PPFXShockwave.cs" />
      <Compile Include="Assets\Script\CameraManager\SimpleCameraSwitcher.cs" />
+     <Compile Include="Assets\Script\CameraViewpointSystem.cs" />
      <Compile Include="Assets\Script\Command-Panel\SimplePanelToggler.cs" />
      <Compile Include="Assets\Script\Command-Panel\SlidingPanel.cs" />
      <Compile Include="Assets\Script\HighlightElems\DetailHighlighter.cs" />
      <Compile Include="Assets\Script\HighlightElems\UIButtonDetailEventHandler.cs" />
      <Compile Include="Assets\Script\MoveCamera.cs" />
      <Compile Include="Assets\Script\PlayerMovement.cs" />
+     <None Include="Assets\ParticleProFX\readme.txt" />
+     <None Include="Assets\ParticleProFX\Resources\Shaders\AlphaSelfIllum.shader" />
      <None Include="Assets\Shaders\NewSurfaceShader.shader" />
+     <None Include="Assets\ParticleProFX\changelog.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>D:/Programs/Uni/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
